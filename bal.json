@@ -1,0 +1,90 @@
+[
+  {
+    "nombre": "Lactobacillus delbrueckii subsp. bulgaricus",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Lácteos fermentados",
+    "importancia": "Producción de yogur junto a Streptococcus thermophilus",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Lactobacillus_bulgaricus.jpg"
+  },
+  {
+    "nombre": "Lactobacillus helveticus",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Leche y productos lácteos",
+    "importancia": "Producción de quesos suizos y fermentación láctea",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Lactobacillus_helveticus.jpg"
+  },
+  {
+    "nombre": "Lactiplantibacillus plantarum (antes Lactobacillus plantarum)",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Vegetales fermentados, intestino humano",
+    "importancia": "Fermentación de chucrut, kimchi y alimentos probióticos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lactobacillus_plantarum.jpg"
+  },
+  {
+    "nombre": "Lacticaseibacillus rhamnosus (antes Lactobacillus rhamnosus)",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Intestino humano y alimentos lácteos",
+    "importancia": "Probiótico ampliamente usado en suplementos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Lactobacillus_rhamnosus.jpg"
+  },
+  {
+    "nombre": "Lacticaseibacillus casei (antes Lactobacillus casei)",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Lácteos y mucosa oral",
+    "importancia": "Probiótico y fermentación de productos lácteos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Lactobacillus_casei.jpg"
+  },
+  {
+    "nombre": "Lactobacillus acidophilus",
+    "morfologia": "Bacilos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Intestino humano y alimentos fermentados",
+    "importancia": "Probiótico usado en yogur y suplementos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lactobacillus_acidophilus.jpg"
+  },
+  {
+    "nombre": "Streptococcus thermophilus",
+    "morfologia": "Cocos Gram positivos en cadenas",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Productos lácteos fermentados",
+    "importancia": "Producción de yogur y quesos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Streptococcus_thermophilus.jpg"
+  },
+  {
+    "nombre": "Leuconostoc mesenteroides",
+    "morfologia": "Cocos Gram positivos",
+    "metabolismo": "Heterofermentativo",
+    "habitat": "Vegetales fermentados",
+    "importancia": "Producción de chucrut, kimchi y dextranos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Leuconostoc_mesenteroides.jpg"
+  },
+  {
+    "nombre": "Pediococcus pentosaceus",
+    "morfologia": "Cocos Gram positivos en tétradas",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Vegetales y embutidos fermentados",
+    "importancia": "Fermentación de salami, encurtidos y probióticos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pediococcus_pentosaceus.jpg"
+  },
+  {
+    "nombre": "Pediococcus acidilactici",
+    "morfologia": "Cocos Gram positivos en tétradas",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Alimentos fermentados",
+    "importancia": "Probiótico y conservación de alimentos",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Pediococcus_acidilactici.jpg"
+  },
+  {
+    "nombre": "Oenococcus oeni",
+    "morfologia": "Cocos Gram positivos",
+    "metabolismo": "Homofermentativo",
+    "habitat": "Vino",
+    "importancia": "Fermentación maloláctica en la vinificación",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Oenococcus_oeni.jpg"
+  }
+]
